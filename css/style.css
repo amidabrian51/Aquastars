@@ -100,16 +100,7 @@ a:active {
 
   background: #ffa949 url('../img/swimmer_in_tea_cup.jpg') no-repeat center / cover;
 }
-.green_swimmer {
-  padding-top: 170px;
-  height: 850px;
 
-  /*background-image: url('../img/mountains.jpg');
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center;*/
-  background: #ffa949 url('../img/twickenham_green.jpg') no-repeat center / cover;
-}
 .title {
   color: white;
   font-size: 1.625rem; /* 26px/16px */
