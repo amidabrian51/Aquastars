@@ -1,12 +1,12 @@
 ### Aquastars Website
 
-##By Brian Patterson
+## By Brian Patterson
 
 # The concept
 
 A website that gives the basic features of a local swimming school in Twickenham.
 
-###Welcome to Aquastars
+### Welcome to Aquastars
 ![Home Page](http://i.imgur.com/nV8stxm.png)
 
 ## Accessing the site
