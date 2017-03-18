@@ -36,8 +36,8 @@ Built by:
 
 ## What went well
 
-* Learning about PHP and how to separate files in a PHP project
-* Learning to how Adding a suggestions form.
+* Learning about how html and css integrates.
+* Learning to how to do transitions.
 
 ## Supporting user stories
 
